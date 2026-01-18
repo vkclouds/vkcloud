@@ -1,4 +1,14 @@
 <p align="center">
+  <a href="https://t.me/vkcloud_hunter">
+    <img src="https://img.shields.io/badge/Telegram-@vkcloud__hunter-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>👉 <a href="https://t.me/vkcloud_hunter">t.me/vkcloud_hunter</a></b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/VK_Cloud-IP_Hunter_Pro-blue?style=for-the-badge&logo=telegram" alt="VK Cloud IP Hunter Pro"/>
 </p>
 
